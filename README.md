@@ -1,4 +1,4 @@
-# The Social Media
+# Sosh
 
 ## **DISCLAIMER: This project is pretty big. Start it at your own risk**
 
@@ -8,11 +8,12 @@ Insert some long, heavy story here about how you realized that every other socia
 
 ## Component Tree
 
-![](./images/component-tree.png)
+![component tree](./images/component-tree.png)
 
 ## User stories
 
 ### Landing Page
+
 - As a user, I see a form that will allow me to either log in or sign up
 
 ### Dashboard Page
