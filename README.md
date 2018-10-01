@@ -1,6 +1,6 @@
-# Sosh
+# Sosh (Social Media...streamlined)
 
-## **DISCLAIMER: This project is pretty big. Start it at your own risk**
+## **DISCLAIMER: This project is pretty big. Start it at your own risk. Also, if there are any user stories or components missing, please send a pull request and I'll update the image!**
 
 ## Overview
 
